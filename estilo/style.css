@@ -101,10 +101,9 @@ main{
 main h1{
     color: var(--cor5);
     font-family:var(--fonte-android);
-    
     margin: 10px;
-    
 }
+
 main h2{
     background-image: linear-gradient(to right,var(--cor1),transparent);
     color: var(--cor5);
